@@ -1,6 +1,7 @@
 # ReadMe
 ---
 **Hazırlayan:** Utku Esat Sevinç  
+**mail:** uesevinc@outlook.com
 
 ## ️ Kullanılan Teknolojiler ve Kütüphaneler
 - **Python 3.10+**
